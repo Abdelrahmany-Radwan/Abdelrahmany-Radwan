@@ -15,7 +15,7 @@ I’m especially interested in **machine learning systems, NLP, data products, s
 
 > **I care more about what a system can prove than what it can claim.**
 
-## Featured project — JobFit
+## Featured project - JobFit
 
 **Evidence-first resume-to-job matching**
 
