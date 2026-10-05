@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://abdelrahmany-radwan.github.io/JobFit/"><img src="https://img.shields.io/badge/Live_Project-JobFit-288F98?style=for-the-badge" alt="JobFit live demo"></a>
-  <a href="https://github.com/Abdelrahmany-Radwan/JobFit"><img src="https://img.shields.io/badge/Flagship_Repo-JobFit-203F5E?style=for-the-badge&logo=github&logoColor=white" alt="JobFit repository"></a>
+  <a href="https://abdelrahmany-radwan.github.io/JobFit/"><img src="https://img.shields.io/badge/JobFit-Live-288F98?style=for-the-badge" alt="JobFit live demo"></a>
+  <a href="https://abdelrahmany-radwan.github.io/LectureLens/"><img src="https://img.shields.io/badge/LectureLens-Live-8B5CF6?style=for-the-badge" alt="LectureLens live demo"></a>
 </p>
 
 ## About me
@@ -32,6 +32,24 @@ JobFit maps job requirements to supporting evidence already present in a resume 
   <a href="https://github.com/Abdelrahmany-Radwan/JobFit"><img src="https://img.shields.io/badge/Source-GitHub-203F5E?style=flat-square&logo=github&logoColor=white" alt="Source code"></a>
   <a href="https://github.com/Abdelrahmany-Radwan/JobFit/blob/main/ARCHITECTURE.md"><img src="https://img.shields.io/badge/Architecture-Read-72B1AB?style=flat-square" alt="Architecture"></a>
   <a href="https://github.com/Abdelrahmany-Radwan/JobFit/releases/latest"><img src="https://img.shields.io/badge/Release-v1.1.0-DC5084?style=flat-square" alt="Latest release"></a>
+</p>
+
+## Featured project - LectureLens
+
+**Local-first AI lecture search and study companion**
+
+LectureLens records or imports lecture audio, transcribes it locally with **Whisper**, turns the transcript into timestamp-aware chunks, and retrieves the strongest source passage for a student's question.
+
+- **Speech / ML:** Whisper Tiny English, MiniLM embeddings, cosine similarity, hybrid semantic + lexical retrieval
+- **Audio engineering:** MediaRecorder, Web Audio API, waveform feedback, timestamp-linked playback
+- **Evaluation:** grouped hard negatives, dev/test separation, Recall@1/Recall@3/MRR, classification metrics, latency measurement
+- **Engineering:** browser inference, graceful lexical fallback, CI/CD, GitHub Pages, privacy-aware local processing
+- **Measured retrieval:** correct source ranked **#1 for all 4 held-out query groups** in the current 40-pair regression benchmark
+
+<p>
+  <a href="https://abdelrahmany-radwan.github.io/LectureLens/"><img src="https://img.shields.io/badge/Live_Demo-Open-8B5CF6?style=flat-square" alt="LectureLens live demo"></a>
+  <a href="https://github.com/Abdelrahmany-Radwan/LectureLens"><img src="https://img.shields.io/badge/Source-GitHub-17171B?style=flat-square&logo=github&logoColor=white" alt="LectureLens source code"></a>
+  <a href="https://github.com/Abdelrahmany-Radwan/LectureLens/blob/main/ARCHITECTURE.md"><img src="https://img.shields.io/badge/Architecture-Read-43D9A3?style=flat-square" alt="LectureLens architecture"></a>
 </p>
 
 ## Tech stack
