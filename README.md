@@ -42,9 +42,10 @@ LectureLens records or imports lecture audio, transcribes it locally with **Whis
 
 - **Speech / ML:** Whisper Tiny English, MiniLM embeddings, cosine similarity, hybrid semantic + lexical retrieval
 - **Audio engineering:** MediaRecorder, Web Audio API, waveform feedback, timestamp-linked playback
-- **Evaluation:** grouped hard negatives, dev/test separation, Recall@1/Recall@3/MRR, classification metrics, latency measurement
-- **Engineering:** browser inference, graceful lexical fallback, CI/CD, GitHub Pages, privacy-aware local processing
+- **Evaluation:** grouped hard negatives, dev/test separation, Recall@1/Recall@3/MRR, LibriSpeech WER, and real classroom CoTACS WER
+- **Engineering:** IndexedDB lecture library, Web Worker ML inference, Playwright browser tests, CI/CD, GitHub Pages, protected main
 - **Measured retrieval:** correct source ranked **#1 for all 4 held-out query groups** in the current 40-pair regression benchmark
+- **Measured speech:** **8.0% WER** on the small LibriSpeech regression set; **30.3% WER** on a 120-second real classroom CoTACS sample
 
 <p>
   <a href="https://abdelrahmany-radwan.github.io/LectureLens/"><img src="https://img.shields.io/badge/Live_Demo-Open-8B5CF6?style=flat-square" alt="LectureLens live demo"></a>
