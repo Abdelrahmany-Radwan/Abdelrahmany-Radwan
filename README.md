@@ -43,7 +43,7 @@ LectureLens records or imports lecture audio, transcribes it locally with **Whis
 - **Speech / ML:** Whisper Tiny English, MiniLM embeddings, cosine similarity, hybrid semantic + lexical retrieval
 - **Audio engineering:** MediaRecorder, Web Audio API, waveform feedback, timestamp-linked playback
 - **Evaluation:** grouped hard negatives, dev/test separation, Recall@1/Recall@3/MRR, LibriSpeech WER, and real classroom CoTACS WER
-- **Engineering:** IndexedDB lecture library, Web Worker ML inference, Playwright browser tests, CI/CD, GitHub Pages, protected main
+- **Engineering:** IndexedDB multi-lecture persistence, Web Worker ML inference, Playwright browser tests, CI/CD, GitHub Pages, protected main
 - **Measured retrieval:** correct source ranked **#1 for all 4 held-out query groups** in the current 40-pair regression benchmark
 - **Measured speech:** **8.0% WER** on the small LibriSpeech regression set; **30.3% WER** on a 120-second real classroom CoTACS sample
 
@@ -51,6 +51,7 @@ LectureLens records or imports lecture audio, transcribes it locally with **Whis
   <a href="https://abdelrahmany-radwan.github.io/LectureLens/"><img src="https://img.shields.io/badge/Live_Demo-Open-8B5CF6?style=flat-square" alt="LectureLens live demo"></a>
   <a href="https://github.com/Abdelrahmany-Radwan/LectureLens"><img src="https://img.shields.io/badge/Source-GitHub-17171B?style=flat-square&logo=github&logoColor=white" alt="LectureLens source code"></a>
   <a href="https://github.com/Abdelrahmany-Radwan/LectureLens/blob/main/ARCHITECTURE.md"><img src="https://img.shields.io/badge/Architecture-Read-43D9A3?style=flat-square" alt="LectureLens architecture"></a>
+  <a href="https://github.com/Abdelrahmany-Radwan/LectureLens/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-8B5CF6?style=flat-square" alt="LectureLens v1.0.0 release"></a>
 </p>
 
 ## Tech stack
@@ -87,10 +88,10 @@ LectureLens records or imports lecture audio, transcribes it locally with **Whis
 
 ## Currently building
 
-- stronger **Python + data structures** fundamentals
-- better **retrieval and ML evaluation** systems
+- deeper **Python, algorithms, and data structures** fluency
+- stronger **retrieval, speech AI, and ML evaluation** systems
 - practical **AI/data products** with measurable behavior
-- stronger **software engineering** through testing, CI/CD, and deployment
+- production-minded **software engineering** through testing, CI/CD, performance work, and deployment
 
 ## How I like to build
 
