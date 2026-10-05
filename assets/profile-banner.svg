@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Abdelrahman Radwan GitHub profile banner</title>
+<desc id="desc">Business Analytics and AI student building explainable AI and data products.</desc>
+<rect width="1200" height="300" rx="24" fill="#FAF8F3"/>
+<circle cx="1080" cy="40" r="120" fill="#EEE0E0"/>
+<circle cx="1140" cy="250" r="150" fill="#72B1AB" opacity=".22"/>
+<path d="M830 250 C900 185 970 210 1035 150 C1090 100 1140 115 1190 75" fill="none" stroke="#DC5084" stroke-width="5" stroke-linecap="round" stroke-dasharray="12 12"/>
+<text x="64" y="82" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#288F98">AI • DATA • SOFTWARE</text>
+<text x="64" y="160" font-family="Georgia, serif" font-size="60" fill="#203F5E">Abdelrahman Radwan</text>
+<text x="64" y="206" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#657584">Building explainable AI + data products.</text>
+<rect x="64" y="236" width="132" height="36" rx="18" fill="#203F5E"/><text x="88" y="260" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF">Python</text>
+<rect x="208" y="236" width="150" height="36" rx="18" fill="#288F98"/><text x="232" y="260" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF">JavaScript</text>
+<rect x="370" y="236" width="122" height="36" rx="18" fill="#F0ADC2"/><text x="395" y="260" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#203F5E">NLP / ML</text>
+<rect x="504" y="236" width="118" height="36" rx="18" fill="#EEE0E0"/><text x="531" y="260" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#203F5E">CI/CD</text>
+</svg>
