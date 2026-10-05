@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Abdelrahman Radwan — Business Analytics & AI student building explainable AI and data products" width="100%" />
+  <img src="./assets/profile-banner-v2.svg" alt="Abdelrahman Radwan — Business Analytics & AI student building explainable AI and data products" width="100%" />
 </p>
 
 <p align="center">
