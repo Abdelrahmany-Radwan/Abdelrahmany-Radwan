@@ -1,40 +1,82 @@
-# Abdelrahman Radwan
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Abdelrahman Radwan — Business Analytics & AI student building explainable AI and data products" width="100%" />
+</p>
 
-**Business Analytics & Artificial Intelligence student building explainable AI and data products.**
+<p align="center">
+  <a href="https://abdelrahmany-radwan.github.io/JobFit/"><img src="https://img.shields.io/badge/Live_Project-JobFit-288F98?style=for-the-badge" alt="JobFit live demo"></a>
+  <a href="https://github.com/Abdelrahmany-Radwan/JobFit"><img src="https://img.shields.io/badge/Flagship_Repo-JobFit-203F5E?style=for-the-badge&logo=github&logoColor=white" alt="JobFit repository"></a>
+</p>
 
-I’m interested in machine learning systems, data products, software engineering, and responsible AI - especially products where the model’s behavior can be measured, inspected, and explained.
+## About me
 
-## Featured work
+I’m a **Business Analytics & Artificial Intelligence student** focused on building explainable AI, data products, and software that can be measured, inspected, and improved.
 
-### [JobFit](https://github.com/Abdelrahmany-Radwan/JobFit)
+I’m especially interested in **machine learning systems, NLP, data products, software engineering, responsible AI, and technical product development**.
+
+> **I care more about what a system can prove than what it can claim.**
+
+## Featured project — JobFit
+
 **Evidence-first resume-to-job matching**
 
-JobFit maps job requirements to supporting evidence already in a resume using in-browser MiniLM sentence embeddings, hybrid semantic + lexical retrieval, and traceable source evidence.
+JobFit maps job requirements to supporting evidence already present in a resume using **MiniLM sentence embeddings, cosine similarity, and hybrid semantic + lexical retrieval**.
 
-- **ML / NLP:** MiniLM embeddings, cosine similarity, hybrid ranking
+- **ML / NLP:** MiniLM embeddings, semantic retrieval, cosine similarity, hybrid ranking
 - **Evaluation:** dev/test split, hard negatives, precision/recall/F1/accuracy, latency, error analysis
-- **Engineering:** client-side PDF/DOCX parsing, fallback behavior, CI/CD, unit tests, protected-branch workflow
-- **Product:** privacy-aware browser inference, explainable matches, resume health, keyword coverage, action queue
+- **Engineering:** PDF/DOCX/TXT parsing, browser inference, lexical fallback, CI/CD, unit tests, protected pull requests
+- **Product:** explainable evidence mapping, resume health, keyword coverage, prioritized action queue
+- **Measured result:** **0.917 F1**, **1.000 precision**, **0.900 accuracy** on the current held-out regression benchmark
 
-[Live demo](https://abdelrahmany-radwan.github.io/JobFit/) · [Architecture](https://github.com/Abdelrahmany-Radwan/JobFit/blob/main/ARCHITECTURE.md) · [Latest release](https://github.com/Abdelrahmany-Radwan/JobFit/releases/latest)
+<p>
+  <a href="https://abdelrahmany-radwan.github.io/JobFit/"><img src="https://img.shields.io/badge/Live_Demo-Open-288F98?style=flat-square" alt="Live demo"></a>
+  <a href="https://github.com/Abdelrahmany-Radwan/JobFit"><img src="https://img.shields.io/badge/Source-GitHub-203F5E?style=flat-square&logo=github&logoColor=white" alt="Source code"></a>
+  <a href="https://github.com/Abdelrahmany-Radwan/JobFit/blob/main/ARCHITECTURE.md"><img src="https://img.shields.io/badge/Architecture-Read-72B1AB?style=flat-square" alt="Architecture"></a>
+  <a href="https://github.com/Abdelrahmany-Radwan/JobFit/releases/latest"><img src="https://img.shields.io/badge/Release-v1.1.0-DC5084?style=flat-square" alt="Latest release"></a>
+</p>
 
-## Technical focus
+## Tech stack
 
-`Python` · `JavaScript` · `NLP` · `Machine Learning` · `Data Analysis` · `Git/GitHub` · `CI/CD` · `Azure`
+<p>
+  <img src="https://img.shields.io/badge/Python-203F5E?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-288F98?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-72B1AB?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-F0ADC2?style=for-the-badge&logo=css3&logoColor=203F5E" alt="CSS3">
+</p>
 
-## What I’m working on
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-203F5E?style=for-the-badge" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/NLP-288F98?style=for-the-badge" alt="NLP">
+  <img src="https://img.shields.io/badge/Transformers.js-72B1AB?style=for-the-badge" alt="Transformers.js">
+  <img src="https://img.shields.io/badge/Azure-F0ADC2?style=for-the-badge&logo=microsoftazure&logoColor=203F5E" alt="Azure">
+</p>
 
-- building stronger retrieval and evaluation systems
-- improving Python, data structures, and software engineering fundamentals
-- shipping products that are useful, measurable, and explainable
+<p>
+  <img src="https://img.shields.io/badge/Git-203F5E?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-288F98?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub_Actions-72B1AB?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/CI%2FCD-F0ADC2?style=for-the-badge&logoColor=203F5E" alt="CI/CD">
+</p>
 
-## Engineering principles
+## GitHub activity
 
-- **Show evidence before asking for trust**
-- **Measure behavior instead of relying on claims**
-- **Keep user data handling simple and transparent**
-- **Ship, evaluate, improve**
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdelrahmany-Radwan&show_icons=true&hide_border=true&title_color=203F5E&text_color=657584&icon_color=288F98&bg_color=FAF8F3" alt="Abdelrahman's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahmany-Radwan&layout=compact&hide_border=true&title_color=203F5E&text_color=657584&bg_color=FAF8F3" alt="Most used languages" />
+</p>
+
+<sub>Language cards reflect public GitHub code by repository size; they are not a measure of overall proficiency.</sub>
+
+## Currently building
+
+- stronger **Python + data structures** fundamentals
+- better **retrieval and ML evaluation** systems
+- practical **AI/data products** with measurable behavior
+- stronger **software engineering** through testing, CI/CD, and deployment
+
+## How I like to build
+
+**Evidence over claims** · **Measure before marketing** · **Privacy-aware design** · **Ship, evaluate, improve**
 
 ---
 
-> I care more about what a system can prove than what it can claim.
+<p align="center"><strong>Building systems that are useful, measurable, and explainable.</strong></p>
