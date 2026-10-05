@@ -1,15 +1,78 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
 <title id="title">Abdelrahman Radwan GitHub profile banner</title>
-<desc id="desc">Business Analytics and AI student building explainable AI and data products.</desc>
-<rect width="1200" height="300" rx="24" fill="#FAF8F3"/>
-<circle cx="1080" cy="40" r="120" fill="#EEE0E0"/>
-<circle cx="1140" cy="250" r="150" fill="#72B1AB" opacity=".22"/>
-<path d="M830 250 C900 185 970 210 1035 150 C1090 100 1140 115 1190 75" fill="none" stroke="#DC5084" stroke-width="5" stroke-linecap="round" stroke-dasharray="12 12"/>
-<text x="64" y="82" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="3" fill="#288F98">AI • DATA • SOFTWARE</text>
-<text x="64" y="160" font-family="Georgia, serif" font-size="60" fill="#203F5E">Abdelrahman Radwan</text>
-<text x="64" y="206" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#657584">Building explainable AI + data products.</text>
-<rect x="64" y="236" width="132" height="36" rx="18" fill="#203F5E"/><text x="88" y="260" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF">Python</text>
-<rect x="208" y="236" width="150" height="36" rx="18" fill="#288F98"/><text x="232" y="260" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#FFFFFF">JavaScript</text>
-<rect x="370" y="236" width="122" height="36" rx="18" fill="#F0ADC2"/><text x="395" y="260" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#203F5E">NLP / ML</text>
-<rect x="504" y="236" width="118" height="36" rx="18" fill="#EEE0E0"/><text x="531" y="260" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#203F5E">CI/CD</text>
+<desc id="desc">Dark blue and black AI systems portfolio banner for Abdelrahman Radwan.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#050A12"/>
+    <stop offset=".55" stop-color="#071525"/>
+    <stop offset="1" stop-color="#0A2A52"/>
+  </linearGradient>
+  <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#F7FAFF"/>
+    <stop offset=".58" stop-color="#C7DEFF"/>
+    <stop offset="1" stop-color="#4EA1FF"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#1F6FFF" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#48A8FF" stop-opacity=".9"/>
+    <stop offset="1" stop-color="#7CC7FF" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="glow">
+    <stop offset="0" stop-color="#2F8CFF" stop-opacity=".42"/>
+    <stop offset="1" stop-color="#2F8CFF" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+<rect x=".75" y=".75" width="1198.5" height="298.5" rx="23.25" fill="none" stroke="#244569" stroke-opacity=".72" stroke-width="1.5"/>
+
+<circle cx="1065" cy="120" r="150" fill="url(#glow)" filter="url(#soft)"/>
+<circle cx="1120" cy="115" r="90" fill="none" stroke="#3C8EFF" stroke-opacity=".28"/>
+<circle cx="1120" cy="115" r="70" fill="none" stroke="#79BCFF" stroke-opacity=".16"/>
+<path d="M760 246 C835 184 900 208 958 151 C1014 97 1064 83 1160 52" fill="none" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+<path d="M786 266 C846 226 916 238 978 190 C1048 135 1088 145 1175 108" fill="none" stroke="#2D7DFF" stroke-opacity=".35" stroke-width="1.5"/>
+
+<g opacity=".22" fill="#79BCFF">
+  <circle cx="873" cy="68" r="2"/><circle cx="924" cy="92" r="2"/><circle cx="984" cy="54" r="2"/>
+  <circle cx="1038" cy="202" r="2"/><circle cx="1106" cy="226" r="2"/><circle cx="1154" cy="176" r="2"/>
+</g>
+<g stroke="#4E9CFF" stroke-opacity=".15">
+  <path d="M824 42 V258"/><path d="M888 42 V258"/><path d="M952 42 V258"/><path d="M1016 42 V258"/>
+  <path d="M1080 42 V258"/><path d="M1144 42 V258"/>
+</g>
+
+<text x="64" y="70" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4" fill="#79BCFF">AI • DATA • SOFTWARE</text>
+<text x="64" y="151" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="750" fill="url(#name)">Abdelrahman Radwan</text>
+<text x="64" y="195" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#A8BBD2">Building measurable AI systems and software.</text>
+
+<g font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">
+  <rect x="64" y="226" width="126" height="38" rx="19" fill="#0E2844" stroke="#285681"/>
+  <text x="94" y="251" fill="#DDEBFF">Python</text>
+
+  <rect x="204" y="226" width="148" height="38" rx="19" fill="#0D3150" stroke="#2B6A9C"/>
+  <text x="232" y="251" fill="#DDEBFF">JavaScript</text>
+
+  <rect x="366" y="226" width="126" height="38" rx="19" fill="#112B4B" stroke="#315A87"/>
+  <text x="395" y="251" fill="#DDEBFF">NLP / ML</text>
+
+  <rect x="506" y="226" width="118" height="38" rx="19" fill="#0B2038" stroke="#284E72"/>
+  <text x="538" y="251" fill="#DDEBFF">CI/CD</text>
+</g>
+
+<g transform="translate(835 78)">
+  <rect width="112" height="76" rx="14" fill="#081522" stroke="#2A5A87"/>
+  <path d="M24 49 L40 34 L55 43 L74 21 L90 29" fill="none" stroke="#55A8FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="40" cy="34" r="3" fill="#9BD1FF"/><circle cx="74" cy="21" r="3" fill="#9BD1FF"/>
+</g>
+<g transform="translate(948 154)">
+  <rect width="126" height="82" rx="14" fill="#081522" stroke="#2A5A87"/>
+  <text x="18" y="31" font-family="monospace" font-size="17" fill="#7FC0FF">&lt;/&gt;</text>
+  <rect x="18" y="47" width="74" height="5" rx="2.5" fill="#245C8C"/>
+  <rect x="18" y="59" width="50" height="5" rx="2.5" fill="#183C60"/>
+</g>
+
+<text x="1080" y="71" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.2" fill="#6EA9E8">BUILD</text>
+<text x="1080" y="94" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.2" fill="#6EA9E8">MEASURE</text>
+<text x="1080" y="117" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.2" fill="#6EA9E8">SHIP</text>
 </svg>
