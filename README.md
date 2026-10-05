@@ -2,7 +2,7 @@
 
 **Business Analytics & Artificial Intelligence student building explainable AI and data products.**
 
-I’m interested in machine learning systems, data products, software engineering, and responsible AI — especially products where the model’s behavior can be measured, inspected, and explained.
+I’m interested in machine learning systems, data products, software engineering, and responsible AI - especially products where the model’s behavior can be measured, inspected, and explained.
 
 ## Featured work
 
